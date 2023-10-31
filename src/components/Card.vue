@@ -1,4 +1,3 @@
-
 <template>
     <section id="cardType" :class="['card__wrap', element]">
         <h2>{{ title }}</h2>
