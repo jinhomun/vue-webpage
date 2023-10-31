@@ -5,6 +5,7 @@
 
 ## 설치
 `npm create vue@latest`
+https://vuejs.org/guide/quick-start.html
 
 ## .elliatrc.cjs / .prettierrc.json 설치
 1. ctrl + , : format on save 체크
